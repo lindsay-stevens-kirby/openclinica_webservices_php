@@ -21,7 +21,7 @@ Please do the following, it makes it much easier to review and accept PRs.
 
 ## Other Implementations
 - Python client + desktop app: https://github.com/toskrip/open-clinica-scripts
-- Python client: https://github.com/lindsay-stevens-kirby/openclinica_webservices_py
+- Python client: https://github.com/lindsay-stevens-kirby/openclinica_scripts
 - Python client: https://github.com/dimagi/openclinica-xforms/blob/master/webservices.py
 - Java: https://github.com/jacobrousseau/traitocws/blob/master/TraITOCWS/src/nl/vumc/trait/oc/connect/OCWebServices.java
 
@@ -32,7 +32,7 @@ updated with PHPDoc strings all over, some convenience functions for building
 ODM objects, and the inclusion of the FormStatus attribute which is processed
 by OpenClinica 3.6 and up.
 
-[1] https://github.com/lindsay-stevens-kirby/openclinica_scripts/tree/master/webservices/php
+[1] https://github.com/lindsay-stevens-kirby/openclinica_scripts
 
 
 ## Thanks
